@@ -20,7 +20,7 @@ description: >
   Friends of Robot Casserole
   A non-profit supporting FIRST Robotics Team 1736, Robot Casserole 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://friendsofrobotcasserole.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://forc1736.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
 company_name: FORC
