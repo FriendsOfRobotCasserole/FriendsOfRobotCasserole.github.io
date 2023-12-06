@@ -1,0 +1,48 @@
+###################################################################################
+## Welcome to forc1736.org, a Jekyll-built static website!
+##
+## This config file is meant for settings that affect the whole site, values
+##  which are expected to set up once and rarely edit after that. 
+##  Frequently-updated configuration is found in the `_data` folder.
+##
+## Because of this, this file is *NOT* reloaded automatically when you use
+##  'bundle exec jekyll serve'. If you change this file, please restart the 
+##  server process.
+###################################################################################
+
+###################################################################################
+## Overall Site Configuration
+###################################################################################
+
+title: F.O.R.C.
+email: frc1736@gmail.com
+description: > 
+  Friends of Robot Casserole
+  A non-profit supporting FIRST Robotics Team 1736, Robot Casserole 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://forc1736.org" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Company Information
+company_name: FORC
+company_email: frc1736@gmail.com
+
+
+# Social Links
+facebook_link: https://www.facebook.com/FRC1736/
+twitter_link: https://twitter.com/frc1736
+youtube_link: https://www.youtube.com/channel/UCkyFQe46R61o5StqkTYDwdg
+instagram_link: https://www.instagram.com/frc1736/
+github_link: https://github.com/robotcasserole1736
+tba_link: https://www.thebluealliance.com/team/1736
+
+###################################################################################
+## Page Image/Video Banner Configurations 
+###################################################################################
+banner_height: 525px
+
+###################################################################################
+## Jekyll build configuration 
+###################################################################################
+markdown: kramdown
+plugins:
+  - jekyll-feed

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+  {% include head.html %}
+  {% include header.html %}
+  {% include script.html %}
+
+  <body>
+
+    <div class="row container-kamn">
+      <div style="position: relative; width:100%; height:{{site.banner_height}} ">
+        <img src="{{ page.bannerImage }}" class="blog-post" alt="" align="right" width="100%" height="{{ site.banner_height }}" style="object-fit: cover; position: absolute;">
+        {% include bannerCaption.html %}
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 col-md-8">      
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </body>
+
+  {% include footer.html %}
+</html>
