@@ -14,7 +14,7 @@
 ## Overall Site Configuration
 ###################################################################################
 
-title: F.O.R.C.
+title: FORC 1736
 email: frc1736@gmail.com
 description: > 
   Friends of Robot Casserole
@@ -44,5 +44,5 @@ banner_height: 525px
 ## Jekyll build configuration 
 ###################################################################################
 markdown: kramdown
-plugins:
+plugins_dir:
   - jekyll-feed
