@@ -27,13 +27,13 @@ Supporting Friends of Robot Casserole is easy! All donations are tax deductible.
 
 | Position |  Name | 
 | -------- | ----- |
-| President | Chris Gerth |
-| Secretary | Dawn Gersich |
+| President | Jim Holeman |
+| Secretary | David Longanbach |
 | Treasurer | Larry Schmidt |
 | At Large | Tim Wong |
-| At Large | Jim Holeman |
+| At Large | Chris Gerth |
 
 <br>
 
-Last Updated 27-Jan-2024
+Last Updated: 20-Jun-2024
 
